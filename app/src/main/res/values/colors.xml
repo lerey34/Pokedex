@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="normal">#B1A5A5</color>
+    <color name="combat">#9F422A</color>
+    <color name="vol">#90B1C5</color>
+    <color name="poison">#642785</color>
+    <color name="sol">#AD7235</color>
+    <color name="roche">#4B190E</color>
+    <color name="insect">#179A55</color>
+    <color name="spectre">#FF363069</color>
+    <color name="acier">#FF5C756D</color>
+    <color name="feu">#FFB22328</color>
+    <color name="eau">#FF2648DC</color>
+    <color name="plante">#FF007C42</color>
+    <color name="electrik">#FFE0E64B</color>
+    <color name="psy">#FFAC296B</color>
+    <color name="glace">#FF7ECFF2</color>
+    <color name="dragon">#FF378A94</color>
+    <color name="tenebre">#FF040706</color>
+    <color name="fee">#FF9E1A44</color>
+</resources>
